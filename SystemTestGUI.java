@@ -3,6 +3,9 @@
  * menu to set and display
  * specifications of any computer
  * 
+ * author: Anna A S Back
+ * version: 21032020
+ *
  */
 
 import javafx.application.Application;
