@@ -1,6 +1,8 @@
 /*
  * Programme that returns grade 
  * received for a particular module
+ * author: Anna A S Back
+ * version: 14032020
  */
 
 
