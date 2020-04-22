@@ -4,7 +4,7 @@
  * specifications of any computer
  * 
  * author: Anna A S Back
- * version: 14032020
+ * version: 17032020
  */
 import java.util.Scanner;
 
