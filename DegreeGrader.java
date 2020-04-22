@@ -2,6 +2,9 @@
  * Programme that returns a 
  * masters degree classification
  * based on user inputs
+ *
+ * author: Anna A S Back
+ * version: 14032020
  */
 
 import java.util.Scanner;
